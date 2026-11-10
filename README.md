@@ -2,4 +2,8 @@ Divyansh Rahangdale
 
 Robotics Engineering Student | Research Intern @ IISc Bengaluru
 
-Building robotic systems at the intersection of mechanical design, actuation, control and intelligent behaviour.
+Connect
+
+LinkedIn · Instagram · GitHub
+
+Interested in robotics research, intelligent machines and building systems that interact with the physical world.
